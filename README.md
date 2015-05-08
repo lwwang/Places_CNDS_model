@@ -6,3 +6,6 @@ Top-1 and Top-5 accuracies (%) on MIT Places Val/Test dataset:
 
        top-1 val/test        top-5 val/test
        55.3/54.9              84.8/84.6
+
+The method is described in the following report. Thanks for citing this if this model is useful for your research. 
+
