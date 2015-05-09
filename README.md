@@ -1,6 +1,6 @@
 # Places_CNDS_models
 
-Places-CNDS-8 is a "8conv3fc layer" deep Convolutional neural Networks model trained on MIT Places Dataset with Deep Supervision. 
+Places-CNDS-8 is a "8conv3fc layer" deep #Convolutional neural Networks model trained on MIT Places Dataset with Deep Supervision. 
 
 Top-1 and Top-5 accuracies (%) on MIT Places Val/Test dataset:
 
