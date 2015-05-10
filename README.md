@@ -5,7 +5,7 @@ Places-CNDS-8 is a "8conv3fc layer" deep Convolutional neural Networks model tra
 Top-1 and Top-5 accuracies (%) on MIT Places Val/Test dataset:
 
        top-1 val/test        top-5 val/test
-       55.3/54.9              84.8/84.6
+       54.7/55.7              84.1/85.8
 
 The method is described in the following report. 
 Thanks for citing this report if the model is useful for your research. 
