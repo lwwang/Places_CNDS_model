@@ -14,8 +14,10 @@ Downloading our 8conv3fc_CNDS.caffemodel (8 convolutional layers and 3 fully con
 
 https://www.dropbox.com/s/i8tlh3pslov4t9j/8conv3fc_DSN.caffemodel?dl=0
 
-Thanks for citing our work if the model is useful for you. 
+Thanks for citing our work if the model is useful for you.  
+
+http://arxiv.org/pdf/1505.02496.pdf
 
       Training Deeper Convolutional Networks with Deep Supervision
-      L.Wang, C.Lee, Z.Tu, S. Lazebnik, arXiv:1505.02496[http://arxiv.org/pdf/1505.02496.pdf], 2015
+      L.Wang, C.Lee, Z.Tu, S. Lazebnik, arXiv:1505.02496, 2015
 
