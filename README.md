@@ -16,3 +16,6 @@ https://www.dropbox.com/s/i8tlh3pslov4t9j/8conv3fc_DSN.caffemodel?dl=0
 
 Thanks for citing our work if the model is useful for you. 
 
+      Training Deeper Convolutional Networks with Deep Supervision
+      L.Wang, C.Lee, Z.Tu, S. Lazebnik, arXiv:1505.02496, 2015
+
