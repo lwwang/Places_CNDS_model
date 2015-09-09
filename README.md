@@ -12,7 +12,7 @@ Thanks for citing this report if the model is useful for your research.
 
 Downloading our 8conv3fc_CNDS.caffemodel (8 convolutional layers and 3 fully connected layers)
 
-https://www.dropbox.com/s/i8tlh3pslov4t9j/8conv3fc_DSN.caffemodel?dl=0
+https://drive.google.com/file/d/0B_s0NuQ5DMW_SUZCOUV2amY3ZkU/view?usp=sharing
 
 Thanks for citing our work if the model is useful for you.  
 
